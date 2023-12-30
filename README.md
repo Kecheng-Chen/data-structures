@@ -1,2 +1,2 @@
-CS-61BL
-# Data Structures and Programming Methodology
+# UCB CS61BL Course Project
+* Data Structures and Programming Methodology
